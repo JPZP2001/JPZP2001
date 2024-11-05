@@ -1,5 +1,4 @@
 <h1>Hi there! I'm Juan Pablo 🏀</h1>
-<br>
 <h2>Software Engineer (in progress) & Music Enthusiast</h2>
 <br>
 <br>
@@ -32,7 +31,7 @@ Let's connect!
 
 Feel free to reach out to me via email: juan.zubieta@udem.edu
 
-P.S. Check out my coding projects on GitHub!  [Link to your GitHub profile here]
+P.S. Check out my pinned coding projects!
 
 <!---
 JPZP2001/JPZP2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
