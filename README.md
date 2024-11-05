@@ -1,5 +1,5 @@
 <h1>Hi there! I'm Juan Pablo 🏀</h1>
-<h2>Software Engineer (in progress) & Music Enthusiast</h2>
+<h3>Software Engineer (in progress) & Music Enthusiast</h3>
 <br>
 <br>
 
@@ -12,21 +12,29 @@ Cinema & Film
 
 <h3>💻 My coding journey so far:</h3>
 
-Experienced in various programming languages (Java, C++, Python, Ruby, etc.)
-Proficient in web development with frameworks like Ruby on Rails, ReactJS, and VueJS
-Familiar with cloud platforms like AWS and Google Cloud
-Actively contributing to the AWS Cloud Clubs at my university
+<ul>
+  <li>Experienced in various programming languages (Java, C++, Python, Ruby, etc.)</li>
+  <li>Proficient in web development with frameworks like Ruby on Rails, ReactJS, and VueJS</li>
+  <li>Familiar with cloud platforms like AWS and Google Cloud</li>
+  <li>Actively contributing to the AWS Cloud Clubs at my university</li>
+</ul>
+
 
 <h3>⛹🏼‍♂️ Beyond coding:</h3>
 
-Led a team to develop a web application for a civil association focused on women's safety (2023-2024)
-Created a Platform-as-a-Service (PaaS) system with features like real-time GPS tracking (2020-2022)
-Mentored new interns at Briq.mx, a real estate crowdfunding platform (current)
+<ul>
+  <li>I seek to push my limits and find ways to help other through technology.</li>
+  <li>Love to implement my other interests in the stuff I create.</li>
+</ul>
+
 
 <h3>🔭 Looking for:</h3>
 
-Collaborations on challenging projects that push my limits
-Opportunities to grow both my technical and creative skills
+<ul>
+  <li>Collaborations on challenging projects that push my limits</li>
+  <li>Opportunities to grow both my technical and creative skills</li>
+</ul>
+
 Let's connect!
 
 Feel free to reach out to me via email: juan.zubieta@udem.edu
