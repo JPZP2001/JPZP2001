@@ -24,7 +24,7 @@ I'm currently a student at the University of Monterrey pursuing a degree in Engi
 <h3>⛹🏼‍♂️ Beyond coding:</h3>
 
 <ul>
-  <li>I seek to push my limits and find ways to help other through technology.</li>
+  <li>I seek to find ways to help other through technology.</li>
   <li>Love to implement my other interests in the stuff I create.</li>
 </ul>
 
