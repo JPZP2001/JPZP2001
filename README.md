@@ -1,5 +1,5 @@
 <h1>Hi there! I'm Juan Pablo 🏀</h1>
-<h3>Software Engineer (in progress) & Music Enthusiast</h3>
+<h3>Software Engineer & Music Enthusiast</h3>
 <br>
 
 I'm currently a student at the University of Monterrey pursuing a degree in Engineering/Computer Technologies (Fall 2024). Currently working @Briq.mx. While I'm passionate about software development, I also have a wide range of interests outside of tech, including:
